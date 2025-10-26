@@ -1,0 +1,28 @@
+{
+  "name": "Aisha Muhammad",
+  "title": "Community Health Tutor",
+  "photo": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?crop=faces&fit=crop&w=400&h=400",
+  "location": "Kano State, Nigeria",
+  "education": {
+    "institution": "Kano State School of Health Technology",
+    "degree": "Diploma in Community Health",
+    "graduationYear": 2025
+  },
+  "bio": "Aisha Muhammad is a dedicated community health tutor passionate about empowering learners through practical field-based education. She focuses on preventive healthcare, maternal and child health, and malaria awareness.",
+  "skills": ["Health Education", "Malaria Prevention", "First Aid", "Maternal & Child Health", "Community Mobilization"],
+  "testimonials": [
+    {
+      "name": "Fatima Sani",
+      "comment": "Aisha explains complex topics in simple language and inspires confidence in every class."
+    },
+    {
+      "name": "Umar Bello",
+      "comment": "She’s professional, patient, and understands the realities of community health work in rural areas."
+    }
+  ],
+  "socials": {
+    "linkedin": "https://linkedin.com/in/aisha-muhammad",
+    "email": "mailto:aisha.muhammad@consultancyfirm.ng",
+    "whatsapp": "https://wa.me/2348012345678"
+  }
+}
