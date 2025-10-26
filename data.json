@@ -1,15 +1,22 @@
 {
   "name": "Aisha Muhammad",
   "title": "Community Health Tutor",
-  "photo": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?crop=faces&fit=crop&w=400&h=400",
+  "photo": "https://i.postimg.cc/J7DLfYX9/IMG-20251018-WA0045.jpg",
   "location": "Kano State, Nigeria",
+  "theme": "emerald",
   "education": {
     "institution": "Kano State School of Health Technology",
     "degree": "Diploma in Community Health",
     "graduationYear": 2025
   },
-  "bio": "Aisha Muhammad is a dedicated community health tutor passionate about empowering learners through practical field-based education. She focuses on preventive healthcare, maternal and child health, and malaria awareness.",
-  "skills": ["Health Education", "Malaria Prevention", "First Aid", "Maternal & Child Health", "Community Mobilization"],
+  "bio": "Aisha Muhammad is a passionate Community Health Tutor dedicated to practical learning and preventive healthcare. She helps students understand how small daily actions impact community well-being and teaches creative approaches to tackling public health challenges across Nigeria.",
+  "skills": [
+    "Health Education",
+    "Malaria Prevention",
+    "First Aid",
+    "Maternal & Child Health",
+    "Community Mobilization"
+  ],
   "testimonials": [
     {
       "name": "Fatima Sani",
@@ -21,6 +28,7 @@
     }
   ],
   "socials": {
+    "website": "https://ceo-talk2health.vercel.app",
     "linkedin": "https://linkedin.com/in/aisha-muhammad",
     "email": "mailto:aisha.muhammad@consultancyfirm.ng",
     "whatsapp": "https://wa.me/2348012345678"
